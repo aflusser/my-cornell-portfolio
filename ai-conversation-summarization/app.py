@@ -3,11 +3,9 @@
 
 # Instructions:
 # 1. Read through the guide
-# 2. Find the BEGIN SOLUTION / END SOLUTION blocks below and complete it. DO NOT remove 
-#    the BEGIN SOLUTION / END SOLUTION comments
-# 3. Run 'streamlit run app.py' in the terminal
-# 4. Test your chatbot in the browser
-# 5. Check your code in the guide
+# 2. Run 'streamlit run app.py' in the terminal
+# 3. Test your chatbot in the browser
+# 4. Check your code in the guide
 
 import streamlit as st
 from openai import OpenAI
@@ -67,9 +65,8 @@ def summarize_conversation(messages: list[dict]) -> tuple[str, int]:
     response = client.chat.completions.create(
         model="gpt-4o-mini",  # Smaller, cheaper model for summarization
         messages=[{"role": "user", "content": summary_prompt}],
-        # BEGIN SOLUTION - maximum output length
+        # maximum output length
         max_completion_tokens = 750 
-        # END SOLUTION - maximum output length
     )
 
     # Get token usage from API response
