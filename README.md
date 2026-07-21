@@ -13,6 +13,12 @@ feature selection using scikit-learn.
 | `ImplementNeuralNetwork.ipynb` | Implementing a Neural Network to Predict Airbnb Superhost Status | Neural Networks, Keras Sequential Model, SGD Optimizer, Binary Cross-Entropy Loss, ReLU Activation, Sigmoid Activation, Confusion Matrix |
 | `Capstone.ipynb` | Predicting Airbnb NYC listing price categories | Logistic Regression, Data Exploration & Visualization, Feature Engineering, Model Selection, Hyperparameter Tuning, Binary Classification, Neural Networks |
 
+## Projects
+
+| Folder | Description | Technologies |
+|---|---|---|
+| `ai-conversation-summarization` | Streamlit chatbot that automatically summarizes conversations every 3 messages using OpenAI's gpt-4o-mini to reduce token usage | Streamlit, OpenAI API, gpt-4o, gpt-4o-mini |
+
 
 <!--*(Add a new row here each time upload a new assignment.)*-->
 
