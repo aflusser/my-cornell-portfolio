@@ -18,7 +18,7 @@ feature selection using scikit-learn.
 | `LangGraphPrimer.ipynb` | Primer on language-model graph patterns and pipelines | Graph-based pipelines, Agent patterns, Prompt routing |
 | `OpenAIAgentsSDKPrimer.ipynb` | Introduction to the OpenAI Agents SDK | Agent SDK usage, Tool integration, Prompt engineering, Agent orchestration |
 | `OrchestratorWorkflow.ipynb` | Orchestrator workflow design and examples | Workflow orchestration, Task routing, Pipeline composition |
-| `Parallelization.ipynb` | Parallelization techniques for ML workflows | Multiprocessing, Async IO, Joblib/Concurrent futures |
+| `Parallelization.ipynb` | Parallelization techniques for ML workflows | Multiprocessing, Parallelization |
 | `PromptChaining.ipynb` | Prompt chaining methods and experiments | Prompt engineering, Chained prompts, Multi-step reasoning |
 | `WorkflowRouting.ipynb` | Routing strategies for multi-agent/workflow systems | Routing logic, Decision rules, Policy-based routing |
 
