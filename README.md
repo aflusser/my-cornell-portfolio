@@ -14,6 +14,13 @@ feature selection using scikit-learn.
 | `Capstone.ipynb` | Predicting Airbnb NYC listing price categories | Logistic Regression, Data Exploration & Visualization, Feature Engineering, Model Selection, Hyperparameter Tuning, Binary Classification |
 | `ExtractAnalyzeDocumentsMultimodalLLMs.ipynb` | Extracting and analyzing documents using multimodal LLMs | Multimodal LLMs, Document Extraction, Analysis |
 | `BuildingImprovingDocumentRAGSystem.ipynb` | Building and improving a document Retrieval-Augmented Generation (RAG) system | RAG, Embeddings & Vector Stores, Semantic Search, Prompt Engineering |
+| `EvaluatorOptimizer.ipynb` | Model evaluation and optimizer tuning | Cross-validation, Custom Metrics, Optimizer Configuration, Hyperparameter Search |
+| `LangGraphPrimer.ipynb` | Primer on language-model graph patterns and pipelines | Graph-based pipelines, Agent patterns, Prompt routing |
+| `OpenAIAgentsSDKPrimer.ipynb` | Introduction to the OpenAI Agents SDK | Agent SDK usage, Tool integration, Prompt engineering, Agent orchestration |
+| `OrchestratorWorkflow.ipynb` | Orchestrator workflow design and examples | Workflow orchestration, Task routing, Pipeline composition |
+| `Parallelization.ipynb` | Parallelization techniques for ML workflows | Multiprocessing, Async IO, Joblib/Concurrent futures |
+| `PromptChaining.ipynb` | Prompt chaining methods and experiments | Prompt engineering, Chained prompts, Multi-step reasoning |
+| `WorkflowRouting.ipynb` | Routing strategies for multi-agent/workflow systems | Routing logic, Decision rules, Policy-based routing |
 
 <!--*(Add a new row here each time upload a new assignment.)*-->
 
