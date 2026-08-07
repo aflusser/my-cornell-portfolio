@@ -21,7 +21,7 @@ feature selection using scikit-learn.
 | `Parallelization.ipynb` | Parallelization techniques for ML workflows | Multiprocessing, Parallelization |
 | `PromptChaining.ipynb` | Prompt chaining methods and experiments | Prompt engineering, Chained prompts, Multi-step reasoning |
 | `WorkflowRouting.ipynb` | Routing strategies for multi-agent/workflow systems | Routing logic, Decision rules, Policy-based routing |
-| `ImplementMCP.ipynb` | Implementing a Model Context Protocol (MCP) server and agent integration | Model Context Protocol (MCP), FastMCP, MCPServerStdio, HostedMCPTool, Tool discovery, Stateful servers, Agent orchestration |
+| `ImplementMCP.ipynb` | Implementing a Model Context Protocol (MCP) server and agent integration | Model Context Protocol (MCP), FastMCP, MCPServerStdio, HostedMCPTool, Tool discovery |
 
 <!--*(Add a new row here each time upload a new assignment.)*-->
 
