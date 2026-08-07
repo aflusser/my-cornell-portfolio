@@ -10,10 +10,10 @@ feature selection using scikit-learn.
 | Notebook | Topic | Key Techniques |
 |---|---|---|
 | `ModelSelectionForLogisticRegression.ipynb` | Predicting Airbnb superhost status | Logistic Regression, GridSearchCV, ROC/AUC, SelectKBest |
-| `ImplementNeuralNetwork.ipynb` | Implementing a Neural Network to Predict Airbnb Superhost Status | Neural Networks, Keras Sequential Model, SGD Optimizer, Binary Cross-Entropy Loss, ReLU Activation |
-| `Capstone.ipynb` | Predicting Airbnb NYC listing price categories | Logistic Regression, Data Exploration & Visualization, Feature Engineering, Model Selection, Hyperparameter Tuning, Binary Classification |
+| `ImplementNeuralNetwork.ipynb` | Implementing a Neural Network to Predict Airbnb Superhost Status | Neural Networks, Keras Sequential Model, SGD Optimizer, Binary Cross-Entropy Loss, ReLU Activa[...]
+| `Capstone.ipynb` | Predicting Airbnb NYC listing price categories | Logistic Regression, Data Exploration & Visualization, Feature Engineering, Model Selection, Hyperparameter Tuning, Binary Cla[...]
 | `ExtractAnalyzeDocumentsMultimodalLLMs.ipynb` | Extracting and analyzing documents using multimodal LLMs | Multimodal LLMs, Document Extraction, Analysis |
-| `BuildingImprovingDocumentRAGSystem.ipynb` | Building and improving a document Retrieval-Augmented Generation (RAG) system | RAG, Embeddings & Vector Stores, Semantic Search, Prompt Engineering |
+| `BuildingImprovingDocumentRAGSystem.ipynb` | Building and improving a document Retrieval-Augmented Generation (RAG) system | RAG, Embeddings & Vector Stores, Semantic Search, Prompt Engineering [...]
 | `EvaluatorOptimizer.ipynb` | Model evaluation and optimizer tuning | Cross-validation, Custom Metrics, Optimizer Configuration, Hyperparameter Search |
 | `LangGraphPrimer.ipynb` | Primer on language-model graph patterns and pipelines | Graph-based pipelines, Agent patterns, Prompt routing |
 | `OpenAIAgentsSDKPrimer.ipynb` | Introduction to the OpenAI Agents SDK | Agent SDK usage, Tool integration, Prompt engineering, Agent orchestration |
@@ -21,6 +21,7 @@ feature selection using scikit-learn.
 | `Parallelization.ipynb` | Parallelization techniques for ML workflows | Multiprocessing, Parallelization |
 | `PromptChaining.ipynb` | Prompt chaining methods and experiments | Prompt engineering, Chained prompts, Multi-step reasoning |
 | `WorkflowRouting.ipynb` | Routing strategies for multi-agent/workflow systems | Routing logic, Decision rules, Policy-based routing |
+| `ImplementMCP.ipynb` | Implementing a Model Context Protocol (MCP) server and agent integration | Model Context Protocol (MCP), FastMCP, MCPServerStdio, HostedMCPTool, Tool discovery, Stateful servers, Agent orchestration |
 
 <!--*(Add a new row here each time upload a new assignment.)*-->
 
